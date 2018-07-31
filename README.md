@@ -21,6 +21,7 @@ With debug mode enabled, put the entire KTU directory in `~/Library/Application 
 
 ## TODO
 
+- Improve input validation for the "export individual PDFs" feature.
 - "Auto-Place Images from Folder" is unimplemented.
 - "Place Page Number" is unimplemented
 - "Create Translation Note" is unimplemented.
