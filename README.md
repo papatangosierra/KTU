@@ -2,7 +2,7 @@
 
 ## KTU?
 
-KTU stands for "Kiyoku, Tadashiku, Utsushiku," which is the motto of the Takarazuka theatrical troupe. It translates roughly to "Clearly, Correctly, Beautifully."
+KTU stands for "Kiyoku, Tadashiku, Utsushiku," which is the motto of the Takarazuka theatrical troupe. It translates roughly to "Transparently, Correctly, Beautifully."
 
 ## What it does
 
